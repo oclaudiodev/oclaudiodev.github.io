@@ -1,0 +1,91 @@
+.cartão{
+
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+}
+.linha1{
+    display: flex;
+ background-color: #1a1a1a;
+    justify-content: space-around;
+    text-align: center;
+    padding-top: 20px;
+    
+}
+.meio{
+    color: white;
+    display: flex;
+    text-align: center;
+}
+.cantod{
+    color: white;
+    display: flex; 
+}
+.cartão1{
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+    color: #1a1a1a;
+    border-radius: 3px;
+}
+input{
+    border-radius: 20px;
+    background-color:transparent;
+    background-image: url(/public/assets/images/lupa.svg);
+    background-blend-mode: luminosity;
+    background-position: 90%;
+    background: no-repeat;
+}
+
+
+.pontilhado{
+    border-style: dashed;
+    justify-content: space-around;
+    
+    
+}
+
+.p1{
+    display: flex;
+    justify-content: space-between;
+    background-color: #e6e5e5;
+    margin: 10px;
+}
+
+
+
+.card1{
+
+padding: 10px;
+margin:5px;
+}
+
+.card2{
+
+    padding: 10px;
+    margin:5px;
+}
+.card2 p{
+    padding-top: 15px;
+}
+
+.p2{
+    display: flex;
+    justify-content: space-between;
+    background-color: #ffffff;
+    margin: 10px;
+}
+
+.tit{
+    font-size: 25px;
+}
+.space{
+    margin:20px 15px
+}
+.costa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
